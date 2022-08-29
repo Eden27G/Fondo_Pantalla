@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267686022429",
+    "project_id": "pruebasaplicacion-aaf91",
+    "storage_bucket": "pruebasaplicacion-aaf91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267686022429:android:5ea9c32764a0a8e60825f4",
+        "android_client_info": {
+          "package_name": "com.example.fondo_pantalla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267686022429-959msv8li5hhue51unnrnmal7lc0258h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8XXLCHrSIEJjczFKsBuF5x1OggyHf67g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267686022429-959msv8li5hhue51unnrnmal7lc0258h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
