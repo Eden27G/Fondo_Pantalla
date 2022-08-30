@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Eden Garcia/AndroidStudioProjects/Fondo_Pantalla/app/src/main/res/drawable-anydpi/cinco_icon.xml" value="0.125" />
         <entry key="..\:/Users/Eden Garcia/AndroidStudioProjects/Fondo_Pantalla/app/src/main/res/layout/activity_main.xml" value="0.23645833333333333" />
         <entry key="..\:/Users/Eden Garcia/AndroidStudioProjects/Fondo_Pantalla/app/src/main/res/layout/carga.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/Eden Garcia/AndroidStudioProjects/Fondo_Pantalla/app/src/main/res/layout/encabezado.xml" value="0.536" />
+        <entry key="..\:/Users/Eden Garcia/AndroidStudioProjects/Fondo_Pantalla/app/src/main/res/menu/menu_admin.xml" value="0.264" />
       </map>
     </option>
   </component>

@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Fondo_Pantalla</string>
     <string name="desarrollado">Aplicacion desarrollada por Eden</string>
+
+    <!--Menu Admin-->
+    <string name="InicioAdmin">Inicio</string>
+    <string name="PerfilAdmin">Perfil</string>
+    <string name="RegistrarAdmin">Registrar</string>
+    <string name="ListarAdmin">Lista de administradores</string>
+    <string name="Salir">Cerrar Sesión</string>
 </resources>
